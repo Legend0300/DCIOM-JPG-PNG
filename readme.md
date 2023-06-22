@@ -10,12 +10,12 @@ The **DICOM to Image Converter** is a Python script that allows you to convert D
 
 ## Installation
 
-1. Clone the repository or download the script file (`convert_dicom.py`) directly.
+1. Clone the repository or download the script file (`converter.py`) directly.
 2. Install the required libraries by running the following command: `pip install pydicom pillow`
 
 ## Usage
 
-1. Place your DICOM files in a directory.
+1. Place your DICOM files in a directory and also converter.py in the same directory 
 2. Open the terminal or command prompt and navigate to the directory where the `converter.py` script is located.
 3. Run the following command to execute the script: `python converter.py`
 
